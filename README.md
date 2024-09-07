@@ -2,7 +2,7 @@
 
 ## Description
 
-The My Bike Landing page is a visually engaging website designed to showcase the latest in biking technology and events. Built with HTML, SCSS, and JavaScript, this landing page aims to provide a dynamic and interactive experience for bike enthusiasts and potential customers.
+The My Bike Landing page is a visually engaging website designed to showcase the latest in biking technology and events. Built with HTML, SCSS, this landing page aims to provide a dynamic and interactive experience for bike enthusiasts and potential customers.
 
 **Key features include**:
 
@@ -14,10 +14,8 @@ The My Bike Landing page is a visually engaging website designed to showcase the
 
 ## Technologies Used
 
-- **HTML**: For the structure and content of the website.
-- **Sass**: For advanced and modular styling.
-- **JavaScript**: For creating a custom slider and other interactive features.
-  Responsive Design: Ensures functionality across all devices, including tablets and smartphones.
+- **HTML**: Structuring the website’s content and layout.
+- **SCSS**: Facilitating advanced and modular styling with efficient CSS management.
 
 ## Live Preview
 
