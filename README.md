@@ -15,6 +15,7 @@ The My Bike Landing page is a visually engaging website designed to showcase the
 ## Technologies Used
 
 - **HTML**: Structuring the website’s content and layout.
+- **BEM**: Used for naming conventions to ensure modular and maintainable styles.
 - **SCSS**: Facilitating advanced and modular styling with efficient CSS management.
 
 ## Live Preview
